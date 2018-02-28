@@ -1,0 +1,2 @@
+activate my_py3
+jupyter notebook
